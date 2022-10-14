@@ -40,4 +40,3 @@ class Vote(Base):
 
 
 
-
